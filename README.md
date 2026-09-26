@@ -6,14 +6,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-- 🎓 Estudiante de Ingeniería de Sistemas y Telecomunicaciones
-- 💻 Interesado en desarrollo de software
-- 🗄️ Aprendiendo y trabajando con bases de datos.
-- 🧠 En constante aprendizaje de nuevas tecnologías
-- 🔧 Me gusta aprender construyendo proyectos
-- 📚 Interesado en programación, sistemas, tecnología y resolución de problemas
-- 🌎 Colombia 🇨🇴
-<br>
+- 🎓 Estudiante de Ingeniería de Sistemas y Telecomunicaciones <br>
+- 💻 Interesado en desarrollo de software <br>
+- 🗄️ Aprendiendo y trabajando con bases de datos <br>
+- 🧠 En constante aprendizaje de nuevas tecnologías <br>
+- 🔧 Me gusta aprender construyendo proyectos <br>
+- 📚 Interesado en programación, sistemas, tecnología y resolución de problemas <br>
+- 🌎 Colombia 🇨🇴 <br>
+
 
 
 
